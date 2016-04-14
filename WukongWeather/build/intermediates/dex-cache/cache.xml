@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\WukongWeather\ptrlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94f668d1b9eef2dcb525bff018705553cb65f461">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\WukongWeather-ptrlib-unspecified_a2f4040c1709111526df003f10a0f84c9c5381cd.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_3405617cc764af2f9948b6e462a4e820a0e909b0.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcacf665e5536c0da76732c56bae2ae1e202d5da">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.mikepenz-iconics-core-2.5.4_ef57ce45a25266dd848a21b1056baede8b014e3a.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_bdf01fc3b238fe1d8b1a8cf31ab6b3de44da1b29.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.baoyz.swipemenulistview\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.baoyz.swipemenulistview-library-1.3.0_59c8e81a3bf127cf33e2b3c307809edc8bbb75dc.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="25e8af11fff99ad02250f52f2436e25f60cc1bbe">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.mikepenz-materialize-0.5.1_7e125c084120af7ef43e657632b01de2cd3fd954.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_895ba05b2069d22e6ac33be3d2b1a62caa004ed5.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.github.vajro\MaterialDesignLibrary\1.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b083f9ed76344c2f2b227c56d597f6d08d3fefc8">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.github.vajro-MaterialDesignLibrary-1.6_bdff590ad6335b662cd90d2731e043548dcbc48b.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.android.volley-2015.05.28_d0b111c8f4974114ef5e9fa3d901f6fd6b721b64.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_d344a8b8988b533f57b4c076c62eadb84b0f2cf9.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\libs\locSDK_6.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\locSDK_6.13_07eb16334ccb4e68218a0f76112897b66e10b956.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_49df2ab80a4356ff931ed791c79a906b876b29ae.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\gson-2.2.4_80b90049b4841528d14a6e0ea4810c9d04c8987c.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\4.6.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="25c8422fe5a0acee6cee4f7e52449c2802f6ca19">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.mikepenz-materialdrawer-4.6.4_66a9bfda900a901ccfdbb6f3d3df5b627effef60.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.timqi.sectorprogressview\SectorProgressView\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4c7cdd3c1ba5ff91489265ee7aeab025656316e2">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.timqi.sectorprogressview-SectorProgressView-1.0.1_6ccd74eae07dc5a4464becfe7f0878f460319370.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_a6a706e8e898985611162e22e579d56590169026.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\library-2.4.0_6a3127adc4fdadc7a504676be01b82bbd9d2238e.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_8a388c0dcf6a6e94d88ecd7a52ea0510a8585998.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\WukongWeather\RoundCornerProgressBar\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="30d1bdced1e10304986c800edeea6c762ae4d031">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\WukongWeather-RoundCornerProgressBar-unspecified_a57a4b5d78b296923a1a88ea09bab895dbe66837.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\exploded-aar\com.orhanobut\dialogplus\1.10\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="95373ed729c03b988eb4488d9758287e1ea5d21e">
+        <dex dex="D:\android_github\WuKong-Weather-App-master\WukongWeather\app\build\intermediates\pre-dexed\debug\com.orhanobut-dialogplus-1.10_0ce836675656f460a959bb2207998755247bec96.jar" />
+    </item>
+
+</items>
